@@ -10,12 +10,6 @@ function Hero() {
                 </p>
                 <div className="hero-button">
                     <button>Shop Now</button>
-
-
-
-
-
-                    
                     <button>Category</button>
                 </div>
                 <div className="Shopping">
